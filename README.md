@@ -1,2 +1,2 @@
-Make with HTML and CSS <br/>
+Built with HTML and CSS <br/>
 UI Design From Envato Element
